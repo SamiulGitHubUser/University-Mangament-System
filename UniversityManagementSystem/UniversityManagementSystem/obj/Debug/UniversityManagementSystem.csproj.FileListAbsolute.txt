@@ -1,0 +1,303 @@
+c:\users\sam\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LoginFrame.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminDashboard.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentsControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.xml
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AccountContorl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherContorl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeBoardContorl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LogOutControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DashBoardControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentUpdate.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseAdd.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseUpdate.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentUpdate.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeAdd.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeUpdate.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentDataControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentAdd.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherAdd.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherDataContorl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookAdd.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookUpdate.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.MailBoxControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DepartmentControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DeptCourseControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.StudentUnderTacher.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.TeacherDashboardForm.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.AttendanceControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.LibraryControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.MailControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.NoticeControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.ScheduleControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.SyllabusControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.UploadControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.DashBoardControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDataBase.mdf
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDataBase_log.ldf
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.RegistrationControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ChangePassword.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.DahboardContro.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.FinancialControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.LibraryControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MailBoxControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MyCarriculam.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.OptionControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ProfileControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ResultControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.RoutineControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.SemesterGradesControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudentDashboard.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudyMaterialControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.Temp.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ProfileControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ChangePassword.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.SettingControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ExamResultControl.resources
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LoginPanel.HomeForm.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.xml
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AccountContorl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminDashboard.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DeptCourseControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookAdd.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseAdd.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DepartmentControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.MailBoxControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentDataControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DashBoardControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.RegistrationControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LoginFrame.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeAdd.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentsControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentAdd.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherContorl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeBoardContorl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherAdd.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherDataContorl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ChangePassword.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.DahboardContro.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.FinancialControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.LibraryControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MailBoxControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MyCarriculam.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.OptionControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ProfileControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ResultControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.RoutineControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.SemesterGradesControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudentDashboard.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudyMaterialControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.AttendanceControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ChangePassword.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.DashBoardControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ExamResultControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.LibraryControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.MailControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.NoticeControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ProfileControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.ScheduleControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.SettingControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.StudentUnderTacher.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.SyllabusControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.TeacherDashboardForm.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.UploadControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB.mdf
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB_log.ldf
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB.mdf
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB_log.ldf
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.xml
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AccountContorl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminDashboard.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DeptCourseControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookAdd.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookUpdate.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseAdd.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DepartmentControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseUpdate.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.MailBoxControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.ProfileControler.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentDataControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DashBoardControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.RegistrationControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LoginFrame.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeAdd.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeUpdate.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentsControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentUpdate.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentAdd.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentUpdate.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherContorl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeBoardContorl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherAdd.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherDataContorl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ChangePassword.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.DahboardContro.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.FinancialControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.LibraryControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MailBoxControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MyCarriculam.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.OptionControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ProfileControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ResultControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.RoutineControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.SemesterGradesControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudentDashboard.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudyMaterialControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.Temp.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.AttendanceControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ChangePassword.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.DashBoardControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ExamResultControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.LibraryControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.MailControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.NoticeControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ProfileControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.ScheduleControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.SettingControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.StudentUnderTacher.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.SyllabusControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.TeacherDashboardForm.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.UploadControl.resources
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.ProfileControler.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB.mdf
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityDB_log.ldf
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\CircularProgressBar.xml
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\WinFormAnimation.xml
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AccountContorl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminDashboard.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DeptCourseControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookAdd.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryBookUpdate.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseAdd.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DepartmentControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.CourseUpdate.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.MailBoxControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.ProfileControler.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentDataControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.DashBoardControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.RegistrationControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LibraryControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.LoginFrame.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeAdd.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeUpdate.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentsControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.ParentUpdate.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentAdd.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentUpdate.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherContorl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.NoticeBoardContorl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherAdd.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherDataContorl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ChangePassword.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.DahboardContro.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.FinancialControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.LibraryControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MailBoxControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.MyCarriculam.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.OptionControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ProfileControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.ResultControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.RoutineControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.SemesterGradesControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudentDashboard.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Student.StudyMaterialControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.AttendanceControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ChangePassword.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.DashBoardControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ExamResultControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.LibraryControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.MailControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.NoticeControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.ProfileControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.ScheduleControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\SmartUniversity.Teacher.SettingControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.StudentUnderTacher.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.SyllabusControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.TeacherDashboardForm.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.TeacherPanel.UploadControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.SettingsControl.resources
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.TeacherUpdate.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.SettingsControl.resources
+C:\Users\Document\Downloads\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.AdminPanel.TeacherUpdate.resources

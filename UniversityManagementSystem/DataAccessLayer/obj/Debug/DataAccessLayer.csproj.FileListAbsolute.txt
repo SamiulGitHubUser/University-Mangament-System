@@ -1,0 +1,20 @@
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,36 @@
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

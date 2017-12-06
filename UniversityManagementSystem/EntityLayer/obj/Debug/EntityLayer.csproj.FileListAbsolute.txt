@@ -1,0 +1,20 @@
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SAM\Documents\Visual Studio 2015\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Document\Documents\Visual Studio 2017\Projects\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Document\Downloads\UMS\UniversityManagementSystem\EntityLayer\obj\Debug\EntityLayer.pdb

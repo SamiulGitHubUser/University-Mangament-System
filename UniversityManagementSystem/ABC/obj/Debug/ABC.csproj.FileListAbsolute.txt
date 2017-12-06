@@ -1,0 +1,4 @@
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\ABC\obj\Debug\ABC.csprojResolveAssemblyReference.cache
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\ABC\obj\Debug\UniversityManagementSystem.CourseControl.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\SAM\documents\visual studio 2015\Projects\UniversityManagementSystem\ABC\obj\Debug\ABC.csproj.GenerateResource.Cache
